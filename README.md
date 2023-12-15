@@ -1,7 +1,7 @@
 #### HH
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keemgdeok&show_icons=true&theme=dark)
 
-![[Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=keemgdeok)](https://solved.ac/keemgdeok/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=keemgdeok)](https://solved.ac/keemgdeok/)
 
 <!--
 **keemgdeok/keemgdeok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

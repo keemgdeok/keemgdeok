@@ -8,9 +8,9 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=flat&logo=TensorFlow&logoColor=white)
 
 ![Keras](https://img.shields.io/badge/Keras-D00000.svg?&style=flat&logo=Keras&logoColor=white)
-
-![scikit\-learn](https://img.shields.io/badge/scikit-learn-F7931E.svg?&style=flat&logo=scikit-learn&logoColor=white)
 <!--
+![scikit-learn](https://img.shields.io/badge/scikit-learn-F7931E.svg?&style=flat&logo=scikit-learn&logoColor=white)
+
 **keemgdeok/keemgdeok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

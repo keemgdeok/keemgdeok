@@ -3,7 +3,8 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=keemgdeok)](https://solved.ac/keemgdeok/)
 
-![python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-#3776AB.svg?&style=flat&logo=Python&logoColor=white)
+
 
 
 <!--

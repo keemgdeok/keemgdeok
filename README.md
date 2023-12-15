@@ -9,7 +9,7 @@
 
 ![Keras](https://img.shields.io/badge/Keras-D00000.svg?&style=flat&logo=Keras&logoColor=white)
 
-![scikit-learn](https://img.shields.io/badge/scikit-learn-F7931E.svg?&style=flat&logo=scikitlearn&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit-learn-F7931E.svg?&style=flat&logo=scikit-learn&logoColor=white)
 <!--
 **keemgdeok/keemgdeok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

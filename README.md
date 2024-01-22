@@ -2,6 +2,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keemgdeok&show_icons=true&theme=dark)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=keemgdeok)](https://solved.ac/keemgdeok/)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=keemgdeok)](https://solved.ac/keemgdeok/)
 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white)
 

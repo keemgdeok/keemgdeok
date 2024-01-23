@@ -6,10 +6,10 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=flat&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000.svg?&style=flat&logo=Keras&logoColor=white)
 
+🌱
+
+
 <!--
-
-
-
 **keemgdeok/keemgdeok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ** [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=keemgdeok)](https://solved.ac/keemgdeok/)
 Here are some ideas to get you started:

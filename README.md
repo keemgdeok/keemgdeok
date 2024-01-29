@@ -1,14 +1,11 @@
-
-
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=keemgdeok)](https://solved.ac/keemgdeok/)
-
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white)
 
 🌱
 
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keemgdeok&show_icons=true&theme=dark)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=flat&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000.svg?&style=flat&logo=Keras&logoColor=white)
 
